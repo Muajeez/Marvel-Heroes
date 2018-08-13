@@ -247,10 +247,10 @@ p {
     position: relative;
 }
 
-#section1 {padding-top:60px; padding-bottom: 10px; height: 100vh;}
-  #section2 {padding-bottom: 10px; height: 100vh;}
-  #section3 {padding-bottom: 10px; height: 100vh;}
-  #section4 {padding-bottom: 10px; height: 100vh;}
+#section1 {padding-top:60px; padding-bottom: 10px; height: 60vh;}
+#section2 {padding-bottom: 10px; height: 60vh;}
+#section3 {padding-bottom: 10px; height: 60vh;}
+#section4 {padding-bottom: 10px; height: 60vh;}
 
 .prof_img {
     width: 100%;
@@ -259,6 +259,27 @@ p {
 
 .bg-pic {
     background: #17476F;
+}
+
+.cBox {
+    padding: 10px 15px;
+    border-radius: 2px;
+    border: 2px solid #ececec;
+    width: 500px;
+    display: block;
+    text-align: left;
+    margin: 25px auto;
+}
+
+.con_img {
+    width: 30px     ;
+    height: 30px;
+}
+
+.clinks {
+    /*font-family: 'Oxygen', sans-serif;*/
+    font-size: 16px;
+    margin-bottom: 10px;
 }
 
 
